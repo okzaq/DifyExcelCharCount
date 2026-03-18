@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://<YOUR_GITHUB_USERNAME>.github.io/excel-row-analyzer",
+  "homepage": "https://okzaq.github.io/DifyExcelCharCount",
   "devDependencies": {
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
